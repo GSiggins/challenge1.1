@@ -9,11 +9,11 @@
 
 ## Live link
 
-https://gsiggins.github.io/challenge1.1/
+https://gsiggins.github.io/horiseon-code-refactor/
 
 ## Github Repo
 
-https://github.com/GSiggins/challenge1.1
+https://github.com/GSiggins/horiseon-code-refactor
 
 ## Screenshot of finished page
 
