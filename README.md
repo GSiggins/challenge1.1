@@ -9,7 +9,7 @@
 
 ## Live link
 
-https://gsiggins.github.io/horiseon-code-refactor/
+[https://gsiggins.github.io/horiseon-code-refactor/](https://gsiggins.github.io/horiseon-code-refactor/)
 
 ## Github Repo
 
